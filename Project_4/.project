@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Project_4</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>image/Image/a.png</name>
+			<type>1</type>
+			<location>C:/Users/Sinta/eclipse-workspace/Project_4/a.png</location>
+		</link>
+		<link>
+			<name>image/Image/d.png</name>
+			<type>1</type>
+			<location>C:/Users/Sinta/eclipse-workspace/Project_4/d.png</location>
+		</link>
+		<link>
+			<name>image/Image/m.png</name>
+			<type>1</type>
+			<location>C:/Users/Sinta/eclipse-workspace/Project_4/m.png</location>
+		</link>
+		<link>
+			<name>image/Image/ss.png</name>
+			<type>1</type>
+			<location>C:/Users/Sinta/eclipse-workspace/Project_4/ss.png</location>
+		</link>
+		<link>
+			<name>image/Image/up.png</name>
+			<type>1</type>
+			<location>C:/Users/Sinta/eclipse-workspace/Project_4/up.png</location>
+		</link>
+	</linkedResources>
+</projectDescription>
